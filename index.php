@@ -7,7 +7,7 @@
 			border-collapse: collapse;
 		}
 		td {
-			min-width: 75px;
+			min-width: 80px;
 			height: 40px;
 			padding: 5px;
 		}
